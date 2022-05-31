@@ -20,7 +20,7 @@ En el curso se estudian temas básicos de inteligencia artificial como lo son:
 
 # Motivación
 
-Para poder cumplir con los requisitos del curso y obtener el certificado se realizaron cada uno de los talleres, los cuales se presentan e este repositorio  
+Para poder cumplir con los requisitos del curso y obtener el certificado se realizarón cada uno de los talleres, los cuales son presentados en este repositorio  
 
 ![Imagen certificado](https://live.staticflickr.com/65535/52112879791_e27634906e_c.jpg)
 
